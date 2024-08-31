@@ -1086,6 +1086,9 @@ hr {
   line-height: 42px;
   margin-bottom: 0; }
 
+.game-explanation {
+  margin-top: 50px; }
+
 .restart-button {
   display: inline-block;
   background: #8f7a66;
